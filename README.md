@@ -34,8 +34,7 @@ Data -> NLP -> ML -> Insight Engine -> Dashboard
 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone <https://github.com/wide-shunks-67/Rural-Intelligent_System.git
 ```
 
 2. Install dependencies
