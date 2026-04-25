@@ -61,6 +61,12 @@ python add_hf_predictions.py
 streamlit run app.py
 ```
 
+##  What Makes This Project Unique
+
+- Combines rule-based reasoning + AI classification  
+- Works on real government datasets  
+- Converts data into decision-support insights
+ 
 ## Sample Output
 
 ### Generated Text
